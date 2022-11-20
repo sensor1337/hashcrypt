@@ -4,7 +4,7 @@ Hash and decrypt texts!
 
 ## Dependencies
 
-Python 3.9
+*Python 3.9
 
 ### Executing program
 
@@ -20,7 +20,7 @@ run main.py
     * Released
 
 
-   
 
 ## License
+   Hashcrypt is fully free for any usage/changing, etc.
 
