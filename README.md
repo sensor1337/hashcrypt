@@ -1,7 +1,7 @@
 
 # HashCrypt
 
-HashCrypt is a simple python scrypt to generate hashes from messages using most popular hash-functions.
+HashCrypt is a simple python scrypt to generate hashes from messages using most popular hash-functions. HashCrypt also has functional to encrypt and decrypt message using asymmetric encryption method.
 
 
 
