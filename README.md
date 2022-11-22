@@ -19,7 +19,7 @@ HashCrypt is a simple python scrypt to generate hashes from messages using most 
 Clone the project
 
 ```bash
-  git clone https://github.com/sensor1337/sensor1337
+  git clone https://github.com/sensor1337/hashcrypt
 ```
 
 Go to the project directory
