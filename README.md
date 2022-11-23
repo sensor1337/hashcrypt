@@ -10,8 +10,8 @@ HashCrypt is a simple python scrypt to generate hashes from messages using most 
 
 ## Features
 
-- Choose from most popular hash-funtions (ex. md5, SHA-1)
-- Generation of necessary items for asymmetric message encryption (TBA)
+- Choose from most popular hash-funtions (ex. md5, SHA-1).
+- Generation of necessary items for asymmetric message encryption.
 
 
 ## Run Locally
